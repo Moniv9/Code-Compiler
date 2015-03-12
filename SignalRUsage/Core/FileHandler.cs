@@ -3,7 +3,7 @@ using System.Text;
 using System.IO;
 using System.Configuration;
 
-namespace WebEditor.Core
+namespace CodeCompiler.Core
 {
      public class FileHandler
      {

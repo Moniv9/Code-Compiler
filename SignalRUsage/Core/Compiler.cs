@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Configuration;
-using WebEditor.Models;
+using CodeCompiler.Models;
 
-namespace WebEditor.Core
+namespace CodeCompiler.Core
 {
      public class Compiler : ICompiler
      {

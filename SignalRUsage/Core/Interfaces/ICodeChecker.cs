@@ -1,5 +1,5 @@
 ﻿
-namespace WebEditor.Core
+namespace CodeCompiler.Core
 {
      public interface ICodeChecker
      {

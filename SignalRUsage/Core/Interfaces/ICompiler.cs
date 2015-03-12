@@ -1,6 +1,6 @@
-﻿using WebEditor.Models;
+﻿using CodeCompiler.Models;
 
-namespace WebEditor.Core
+namespace CodeCompiler.Core
 {
      public interface ICompiler
      {

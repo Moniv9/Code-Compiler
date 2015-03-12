@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Web;
 using System.Web.Mvc;
-using WebEditor.Core;
-using WebEditor.Models;
+using CodeCompiler.Core;
+using CodeCompiler.Models;
 using Newtonsoft.Json;
 
-namespace WebEditor.Controllers
+namespace CodeCompiler.Controllers
 {
      public class HomeController : Controller
      {

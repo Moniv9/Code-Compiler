@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WebEditor.Models
+namespace CodeCompiler.Models
 {
      public class Output
      {

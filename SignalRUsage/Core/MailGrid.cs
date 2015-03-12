@@ -1,6 +1,6 @@
 ﻿
 
-namespace WebEditor.Core
+namespace CodeCompiler.Core
 {
      public class MailGrid
      {

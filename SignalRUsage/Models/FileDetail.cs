@@ -1,5 +1,5 @@
 ﻿
-namespace WebEditor
+namespace CodeCompiler
 {
      public class FileDetail
      {
